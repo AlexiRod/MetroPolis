@@ -1,0 +1,311 @@
+<?xml version="1.0"?><!--Выгрузка Labels от 19.10.2019 11:07
+--><root>
+<Res><value>Авиамоторная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>133</id></Res>
+<Res><value>Авиамоторная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>230</id></Res>
+<Res><value>Авиамоторная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>257</id></Res>
+<Res><value>Автозаводская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>27</id></Res>
+<Res><value>Автозаводская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>292</id></Res>
+<Res><value>Академическая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>101</id></Res>
+<Res><value>Александровский сад</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>71</id></Res>
+<Res><value>Алексеевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>91</id></Res>
+<Res><value>Алма-Атинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>196</id></Res>
+<Res><value>Алтуфьево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>137</id></Res>
+<Res><value>Аминьевское шоссе</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>245</id></Res>
+<Res><value>Андроновка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>270</id></Res>
+<Res><value>Аннино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>160</id></Res>
+<Res><value>Арбатская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>49</id></Res>
+<Res><value>Арбатская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>70</id></Res>
+<Res><value>Аэропорт</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>35</id></Res>
+<Res><value>Бабушкинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>87</id></Res>
+<Res><value>Багратионовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>64</id></Res>
+<Res><value>Балтийская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>281</id></Res>
+<Res><value>Баррикадная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>118</id></Res>
+<Res><value>Бауманская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>46</id></Res>
+<Res><value>Беговая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>116</id></Res>
+<Res><value>Белокаменная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>275</id></Res>
+<Res><value>Беломорская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>303</id></Res>
+<Res><value>Белорусская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>33</id></Res>
+<Res><value>Белорусская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>83</id></Res>
+<Res><value>Беляево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>105</id></Res>
+<Res><value>Бибирево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>138</id></Res>
+<Res><value>Библиотека имени Ленина</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>11</id></Res>
+<Res><value>Битцевский парк</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>215</id></Res>
+<Res><value>Борисово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>176</id></Res>
+<Res><value>Боровицкая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>148</id></Res>
+<Res><value>Боровское шоссе</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>267</id></Res>
+<Res><value>Ботанический сад</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>89</id></Res>
+<Res><value>Ботанический сад</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>277</id></Res>
+<Res><value>Братиславская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>174</id></Res>
+<Res><value>Бульвар Дмитрия Донского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>161</id></Res>
+<Res><value>Бульвар Рокоссовского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>1</id></Res>
+<Res><value>Бульвар Рокоссовского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>274</id></Res>
+<Res><value>Бульвар адмирала Ушакова</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>184</id></Res>
+<Res><value>Бунинская аллея</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>186</id></Res>
+<Res><value>Бутырская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>207</id></Res>
+<Res><value>ВДНХ</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>90</id></Res>
+<Res><value>Варшавская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>180</id></Res>
+<Res><value>Верхние Котлы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>290</id></Res>
+<Res><value>Верхние Лихоборы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>211</id></Res>
+<Res><value>Владыкино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>140</id></Res>
+<Res><value>Владыкино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>278</id></Res>
+<Res><value>Водный стадион</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>38</id></Res>
+<Res><value>Войковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>37</id></Res>
+<Res><value>Волгоградский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>124</id></Res>
+<Res><value>Волжская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>172</id></Res>
+<Res><value>Волоколамская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>59</id></Res>
+<Res><value>Волхонка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>219</id></Res>
+<Res><value>Воробьёвы горы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>16</id></Res>
+<Res><value>Воронцовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>249</id></Res>
+<Res><value>Выставочная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>72</id></Res>
+<Res><value>Выставочный центр</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>188</id></Res>
+<Res><value>Выхино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>128</id></Res>
+<Res><value>Говорово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>302</id></Res>
+<Res><value>Деловой центр</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>217</id></Res>
+<Res><value>Деловой центр</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>240</id></Res>
+<Res><value>Деловой центр</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>285</id></Res>
+<Res><value>Динамо</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>34</id></Res>
+<Res><value>Дмитровская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>143</id></Res>
+<Res><value>Дмитровское шоссе</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>214</id></Res>
+<Res><value>Добрынинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>76</id></Res>
+<Res><value>Домодедовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>21</id></Res>
+<Res><value>Дорогомиловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>220</id></Res>
+<Res><value>Достоевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>163</id></Res>
+<Res><value>Дубровка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>169</id></Res>
+<Res><value>Дубровка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>297</id></Res>
+<Res><value>Жулебино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>205</id></Res>
+<Res><value>ЗИЛ</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>291</id></Res>
+<Res><value>Зорге</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>304</id></Res>
+<Res><value>Зябликово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>178</id></Res>
+<Res><value>Измайлово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>272</id></Res>
+<Res><value>Измайловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>42</id></Res>
+<Res><value>Калужская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>104</id></Res>
+<Res><value>Кантемировская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>24</id></Res>
+<Res><value>Каховская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>181</id></Res>
+<Res><value>Каховская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>251</id></Res>
+<Res><value>Каширская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>25</id></Res>
+<Res><value>Каширская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>179</id></Res>
+<Res><value>Каширская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>252</id></Res>
+<Res><value>Киевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>51</id></Res>
+<Res><value>Киевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>68</id></Res>
+<Res><value>Киевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>85</id></Res>
+<Res><value>Китай-город</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>96</id></Res>
+<Res><value>Китай-город</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>121</id></Res>
+<Res><value>Кожуховская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>170</id></Res>
+<Res><value>Коломенская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>26</id></Res>
+<Res><value>Комсомольская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>6</id></Res>
+<Res><value>Комсомольская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>80</id></Res>
+<Res><value>Коньково</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>106</id></Res>
+<Res><value>Коптево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>306</id></Res>
+<Res><value>Косино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>226</id></Res>
+<Res><value>Котельники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>206</id></Res>
+<Res><value>Красногвардейская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>20</id></Res>
+<Res><value>Краснопресненская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>84</id></Res>
+<Res><value>Красносельская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>5</id></Res>
+<Res><value>Красные ворота</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>7</id></Res>
+<Res><value>Крестьянская застава</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>168</id></Res>
+<Res><value>Кропоткинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>12</id></Res>
+<Res><value>Крылатское</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>56</id></Res>
+<Res><value>Крымская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>289</id></Res>
+<Res><value>Кузнецкий мост</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>120</id></Res>
+<Res><value>Кузьминки</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>126</id></Res>
+<Res><value>Кунцевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>54</id></Res>
+<Res><value>Кунцевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>61</id></Res>
+<Res><value>Кунцевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>244</id></Res>
+<Res><value>Курская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>47</id></Res>
+<Res><value>Курская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>79</id></Res>
+<Res><value>Кутузовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>66</id></Res>
+<Res><value>Кутузовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>286</id></Res>
+<Res><value>Ленинский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>100</id></Res>
+<Res><value>Лермонтовский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>204</id></Res>
+<Res><value>Лесопарковая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>216</id></Res>
+<Res><value>Лефортово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>258</id></Res>
+<Res><value>Лихоборы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>280</id></Res>
+<Res><value>Локомотив</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>273</id></Res>
+<Res><value>Ломоносовский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>224</id></Res>
+<Res><value>Лубянка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>9</id></Res>
+<Res><value>Лужники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>287</id></Res>
+<Res><value>Лухмановская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>228</id></Res>
+<Res><value>Люблино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>173</id></Res>
+<Res><value>Марксистская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>135</id></Res>
+<Res><value>Марьина роща</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>162</id></Res>
+<Res><value>Марьино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>175</id></Res>
+<Res><value>Маяковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>32</id></Res>
+<Res><value>Медведково</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>86</id></Res>
+<Res><value>Международная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>73</id></Res>
+<Res><value>Менделеевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>145</id></Res>
+<Res><value>Минская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>223</id></Res>
+<Res><value>Митино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>60</id></Res>
+<Res><value>Мичуринский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>246</id></Res>
+<Res><value>Мичуринский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>263</id></Res>
+<Res><value>Мневники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>242</id></Res>
+<Res><value>Молодёжная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>55</id></Res>
+<Res><value>Мякинино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>58</id></Res>
+<Res><value>Нагатинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>152</id></Res>
+<Res><value>Нагатинский затон</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>253</id></Res>
+<Res><value>Нагорная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>153</id></Res>
+<Res><value>Нахимовский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>154</id></Res>
+<Res><value>Некрасовка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>229</id></Res>
+<Res><value>Нижегородская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>295</id></Res>
+<Res><value>Нижегородская улица</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>231</id></Res>
+<Res><value>Нижегородская улица</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>256</id></Res>
+<Res><value>Нижняя Масловка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>235</id></Res>
+<Res><value>Новогиреево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>130</id></Res>
+<Res><value>Новокосино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>129</id></Res>
+<Res><value>Новокузнецкая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>29</id></Res>
+<Res><value>Новопеределкино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>268</id></Res>
+<Res><value>Новослободская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>82</id></Res>
+<Res><value>Новохохловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>294</id></Res>
+<Res><value>Новоясеневская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>109</id></Res>
+<Res><value>Новые Черёмушки</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>103</id></Res>
+<Res><value>Озерная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>301</id></Res>
+<Res><value>Окружная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>210</id></Res>
+<Res><value>Окружная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>279</id></Res>
+<Res><value>Окская улица</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>233</id></Res>
+<Res><value>Октябрьская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>75</id></Res>
+<Res><value>Октябрьская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>98</id></Res>
+<Res><value>Октябрьское поле</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>114</id></Res>
+<Res><value>Октябрьское поле</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>308</id></Res>
+<Res><value>Орехово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>22</id></Res>
+<Res><value>Отрадное</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>139</id></Res>
+<Res><value>Охотный ряд</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>10</id></Res>
+<Res><value>Очаково</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>264</id></Res>
+<Res><value>Павелецкая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>28</id></Res>
+<Res><value>Павелецкая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>77</id></Res>
+<Res><value>Панфиловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>305</id></Res>
+<Res><value>Парк Победы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>52</id></Res>
+<Res><value>Парк Победы</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>218</id></Res>
+<Res><value>Парк культуры</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>13</id></Res>
+<Res><value>Парк культуры</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>74</id></Res>
+<Res><value>Партизанская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>43</id></Res>
+<Res><value>Первомайская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>41</id></Res>
+<Res><value>Перово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>131</id></Res>
+<Res><value>Петровский парк</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>298</id></Res>
+<Res><value>Петровский парк</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>312</id></Res>
+<Res><value>Петровско-Разумовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>141</id></Res>
+<Res><value>Петровско-Разумовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>209</id></Res>
+<Res><value>Печатники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>171</id></Res>
+<Res><value>Печатники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>254</id></Res>
+<Res><value>Пионерская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>62</id></Res>
+<Res><value>Планерная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>110</id></Res>
+<Res><value>Площадь Гагарина</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>288</id></Res>
+<Res><value>Площадь Ильича</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>134</id></Res>
+<Res><value>Площадь Революции</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>48</id></Res>
+<Res><value>Плющиха</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>221</id></Res>
+<Res><value>Полежаевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>115</id></Res>
+<Res><value>Полянка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>149</id></Res>
+<Res><value>Пражская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>158</id></Res>
+<Res><value>Преображенская площадь</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>3</id></Res>
+<Res><value>Пролетарская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>123</id></Res>
+<Res><value>Проспект Вернадского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>18</id></Res>
+<Res><value>Проспект Вернадского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>247</id></Res>
+<Res><value>Проспект Мира</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>81</id></Res>
+<Res><value>Проспект Мира</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>93</id></Res>
+<Res><value>Профсоюзная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>102</id></Res>
+<Res><value>Пушкинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>119</id></Res>
+<Res><value>Пятницкое шоссе</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>200</id></Res>
+<Res><value>Раменки</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>225</id></Res>
+<Res><value>Рассказовка</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>269</id></Res>
+<Res><value>Речной вокзал</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>39</id></Res>
+<Res><value>Ржевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>261</id></Res>
+<Res><value>Рижская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>92</id></Res>
+<Res><value>Римская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>167</id></Res>
+<Res><value>Ростокино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>276</id></Res>
+<Res><value>Румянцево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>194</id></Res>
+<Res><value>Рязанский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>127</id></Res>
+<Res><value>Савеловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>307</id></Res>
+<Res><value>Савёловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>144</id></Res>
+<Res><value>Савёловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>313</id></Res>
+<Res><value>Саларьево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>195</id></Res>
+<Res><value>Свиблово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>88</id></Res>
+<Res><value>Севастопольская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>155</id></Res>
+<Res><value>Севастопольский проспект</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>250</id></Res>
+<Res><value>Селигерская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>212</id></Res>
+<Res><value>Семёновская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>44</id></Res>
+<Res><value>Серпуховская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>150</id></Res>
+<Res><value>Славянский бульвар</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>53</id></Res>
+<Res><value>Смоленская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>50</id></Res>
+<Res><value>Смоленская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>69</id></Res>
+<Res><value>Сокол</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>36</id></Res>
+<Res><value>Соколиная Гора</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>296</id></Res>
+<Res><value>Сокольники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>4</id></Res>
+<Res><value>Сокольники</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>260</id></Res>
+<Res><value>Солнцево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>266</id></Res>
+<Res><value>Спартак</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>203</id></Res>
+<Res><value>Спортивная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>15</id></Res>
+<Res><value>Сретенский бульвар</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>165</id></Res>
+<Res><value>Стахановская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>232</id></Res>
+<Res><value>Стрешнево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>282</id></Res>
+<Res><value>Строгино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>57</id></Res>
+<Res><value>Студенческая</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>67</id></Res>
+<Res><value>Суворовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>201</id></Res>
+<Res><value>Сухаревская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>94</id></Res>
+<Res><value>Сходненская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>111</id></Res>
+<Res><value>Таганская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>78</id></Res>
+<Res><value>Таганская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>122</id></Res>
+<Res><value>Тверская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>31</id></Res>
+<Res><value>Театральная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>30</id></Res>
+<Res><value>Текстильщики</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>125</id></Res>
+<Res><value>Текстильщики</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>255</id></Res>
+<Res><value>Телецентр</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>190</id></Res>
+<Res><value>Терехово</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>243</id></Res>
+<Res><value>Терешково</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>265</id></Res>
+<Res><value>Технопарк</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>197</id></Res>
+<Res><value>Тимирязевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>142</id></Res>
+<Res><value>Тимирязевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>192</id></Res>
+<Res><value>Третьяковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>97</id></Res>
+<Res><value>Третьяковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>136</id></Res>
+<Res><value>Третьяковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>222</id></Res>
+<Res><value>Тропарёво</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>193</id></Res>
+<Res><value>Трубная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>164</id></Res>
+<Res><value>Тульская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>151</id></Res>
+<Res><value>Тургеневская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>95</id></Res>
+<Res><value>Тушинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>112</id></Res>
+<Res><value>Тёплый стан</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>107</id></Res>
+<Res><value>Угрешская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>293</id></Res>
+<Res><value>Улица 1905 года</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>117</id></Res>
+<Res><value>Улица Горчакова</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>185</id></Res>
+<Res><value>Улица Милашенкова</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>191</id></Res>
+<Res><value>Улица Народного ополчения</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>241</id></Res>
+<Res><value>Улица Новаторов</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>248</id></Res>
+<Res><value>Улица Сергея Эйзенштейна</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>187</id></Res>
+<Res><value>Улица Скобелевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>183</id></Res>
+<Res><value>Улица Старокачаловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>182</id></Res>
+<Res><value>Улица академика Королёва</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>189</id></Res>
+<Res><value>Улица академика Янгеля</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>159</id></Res>
+<Res><value>Университет</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>17</id></Res>
+<Res><value>Фили</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>65</id></Res>
+<Res><value>Филёвский парк</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>63</id></Res>
+<Res><value>Фонвизинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>208</id></Res>
+<Res><value>Фрунзенская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>14</id></Res>
+<Res><value>Ховрино</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>199</id></Res>
+<Res><value>Ходынское поле</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>237</id></Res>
+<Res><value>Хорошёво</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>283</id></Res>
+<Res><value>Хорошёвская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>238</id></Res>
+<Res><value>Хорошёвская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>310</id></Res>
+<Res><value>ЦСКА</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>299</id></Res>
+<Res><value>ЦСКА</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>311</id></Res>
+<Res><value>Царицыно</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>23</id></Res>
+<Res><value>Цветной бульвар</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>146</id></Res>
+<Res><value>Черкизовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>2</id></Res>
+<Res><value>Чертановская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>156</id></Res>
+<Res><value>Чеховская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>147</id></Res>
+<Res><value>Чистые пруды</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>8</id></Res>
+<Res><value>Чкаловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>166</id></Res>
+<Res><value>Шаболовская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>99</id></Res>
+<Res><value>Шелепиха</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>284</id></Res>
+<Res><value>Шелепиха</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>300</id></Res>
+<Res><value>Шелепиха</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>309</id></Res>
+<Res><value>Шереметьевская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>262</id></Res>
+<Res><value>Шипиловская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>177</id></Res>
+<Res><value>Шоссе Энтузиастов</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>132</id></Res>
+<Res><value>Шоссе Энтузиастов</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>271</id></Res>
+<Res><value>Щукинская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>113</id></Res>
+<Res><value>Щёлковская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>40</id></Res>
+<Res><value>Электрозаводская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>45</id></Res>
+<Res><value>Электрозаводская</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>259</id></Res>
+<Res><value>Юго-Восточная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>234</id></Res>
+<Res><value>Юго-Западная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>19</id></Res>
+<Res><value>Южная</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>157</id></Res>
+<Res><value>Ясенево</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>108</id></Res>
+<Res><value>улица Дмитриевского</value>	<tbl>Labels</tbl>	<fld>name</fld>	<lang>En</lang>	<id>227</id></Res>
+</root>

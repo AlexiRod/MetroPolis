@@ -1,0 +1,4008 @@
+﻿<?xml version="1.0"?><!--Выгрузка станций от 22.08.2019 04:50--><root>
+<Станция>
+	<id>1</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Бульвар Рокоссовского</name>
+	<coordX>55</coordX>
+	<coordY>30</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>
+	«Бульвар Рокоссо́вского» (до 8 июля 2014 года — «Улица Подбельского») — станция Московского метрополитена, конечная северо-восточного радиуса Сокольнической линии. Расположена на территории района Богородское (ВАО). Открыта 1 августа 1990 года в составе участка «Преображенская площадь» — «Улица Подбельского». Была временно закрыта с 16 по 23 февраля и с 30 марта по 4 апреля 2019 года для строительства Большой кольцевой линии.
+ 
+История и происхождение названия
+Станция открыта под названием «Улица Подбельского» 1 августа 1990 года в составе участка «Преображенская площадь» — «Улица Подбельского», после ввода в эксплуатацию которого в Московском метрополитене стало 143 станции. Была названа по улице Подбельского, в 1994 году переименованной в Ивантеевскую (на перекрёстке этой улицы с 7-м проездом Подбельского расположен северный выход со станции). После переименования улицы, которая получила исходное название в честь партийного и государственного деятеля Вадима Подбельского, название станции утратило географическую привязку, хотя имя Подбельского сохранилось до настоящего времени в названиях 7-го и ещё шести проездов, расположенных в том же районе. По решению Московской межведомственной комиссии по наименованию территориальных единиц, улиц, станций метрополитена, организаций и других объектов города станция «Улица Подбельского» 8 июля 2014 года в рамках подготовки к празднованию 70-летия победы в Великой Отечественной войне была переименована в «Бульвар Рокоссовского». Расстояние от наземных вестибюлей станции до самого бульвара составляет более 500 метров.
+
+Как отметил мэр Москвы Сергей Собянин: «Мы с советом ветеранов вырабатывали комплекс мероприятий по подготовке к 70-летию победы в Великой Отечественной войне. Часть мероприятий посвящена увековечению памяти героев войны, великих полководцев, которые защищали Москву и нашу Родину. Предложение было по переименованию станции метро „Улица Подбельского“ в станцию метро „Бульвар Рокоссовского“».
+
+Вестибюли и пересадки
+Станция имеет два выхода: южный — на Открытое шоссе и северный — на Ивантеевскую улицу и 7-й проезд Подбельского.
+
+10 сентября 2016 года открыта одноимённая станция Московского центрального кольца (МЦК), вход на которую находится в непосредственной близости от южного вестибюля станции метрополитена.
+
+Подземные сооружения
+Колонная трёхпролётная станция мелкого заложения (глубина заложения — 8 м). Сооружена по типовому проекту из сборного железобетона с опорой на «стену в грунте». На станции два ряда по 26 железобетонных колонн. Шаг колонн 6,5 м.
+
+Колонны облицованы белым мрамором, путевые стены — металлическими полосами, из которых выложен геометрический орнамент; цоколь стен покрыт тёмным гранитом. Пол выложен светло-серым гранитом с полосами из чёрного и красного мрамора.
+
+Памятников и бюстов на станции нет.
+	</RuTxt>
+	<EnTxt>
+	Bulvar Rokossovskogo (Russian: Бульва́р Рокоссо́вского, English: Rokossovsky Boulevard), previously Ulitsa Podbelskogo (Russian: У́лица Подбе́льского, English: Podbelsky Street), is a Moscow Metro station in the Bogorodskoye District, Eastern Administrative Okrug, Moscow, Russia. It is on the Sokolnicheskaya line, serving as its eastern terminus. The station was opened in 1990. Riders may make an out-of-station transfer to Bulvar Rokossovskogo on the Moscow Central Circle line.
+History
+Name
+The station was originally named "Ulitsa Podbelskogo" for Podbelskogo Street, which was named for the Bolshevik revolutionary Vadim Podbelsky. Even after the street was renamed in 1991 to Ivanteyevskaya Street, the station's name was unchanged until 2014. On 10 April 2014 Moscow City Commission on Names recommended renaming the station to "Bulvar Marshala Rokossovskogo", for Rokossovsky Boulevard, which was named for Soviet Marshal Konstantin Rokossovsky. On 8 July, the station was officially renamed to "Bulvar Rokossovskogo".
+
+Future plans
+Rather than continuing the straight path of the Sokolnicheskaya line to the northeast, Bulvar Rokossovskogo was built to the northwest of Cherkizovskaya, forming a right angle with the rest of the line. This would allow Bulvar Rokossovskogo to eventually become part of a planned second ring line around the city, at which time the Sokolnicheskaya line could presumably be further extended in its original direction.
+
+Beyond Bulvar Rokossovskogo are reversal sidings which are planned to become part of the future "Big Ring" line. A junction between Bulvar Rokossovskogo and Cherkizovskaya is used by southbound trains entering and leaving the Cherkizovo depot (No. 13), since the depot is directly connected only to the southbound tunnel.
+
+Design
+
+Station platform
+Bulvar Rokossovskogo is a shallow column tri-vault station. The station was designed by architects Nina Aleshin and Natalya K. Samoilova and applied the following theme: ferroconcrete pillars faced with white marble; anodized aluminum arranged in geometric patterns on the walls and two identical entrance vestibules located on either side of Moscow's Circular Railway near the Otkrytoe Shosse.
+	</EnTxt>
+</Станция>
+
+<Станция>
+	<id>2</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Черкизовская</name>
+	<coordX>55</coordX>
+	<coordY>60</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>Тельман Исмаилов и черкизон форева</RuTxt>
+	<EnTxt>Yankie Go Home!</EnTxt>
+</Станция>
+
+<Станция>
+	<id>3</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Преображенская площадь</name>
+	<coordX>55</coordX>
+	<coordY>90</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>jjjj</EnTxt>
+</Станция>
+
+<Станция>
+	<id>4</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Сокольники</name>
+	<coordX>55</coordX>
+	<coordY>120</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>5</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Красносельская</name>
+	<coordX>55</coordX>
+	<coordY>150</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>6</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Комсомольская</name>
+	<coordX>55</coordX>
+	<coordY>180</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>7</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Красные ворота</name>
+	<coordX>55</coordX>
+	<coordY>210</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>8</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Чистые пруды</name>
+	<coordX>55</coordX>
+	<coordY>240</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>9</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Лубянка</name>
+	<coordX>55</coordX>
+	<coordY>270</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>10</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Охотный ряд</name>
+	<coordX>57</coordX>
+	<coordY>298</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>11</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Библиотека имени Ленина</name>
+	<coordX>60</coordX>
+	<coordY>325</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>12</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Кропоткинская</name>
+	<coordX>55</coordX>
+	<coordY>360</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>13</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Парк культуры</name>
+	<coordX>55</coordX>
+	<coordY>390</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>14</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Фрунзенская</name>
+	<coordX>55</coordX>
+	<coordY>420</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>15</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Спортивная</name>
+	<coordX>55</coordX>
+	<coordY>450</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>16</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Воробьёвы горы</name>
+	<coordX>55</coordX>
+	<coordY>480</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>17</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Университет</name>
+	<coordX>55</coordX>
+	<coordY>510</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>18</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Проспект Вернадского</name>
+	<coordX>55</coordX>
+	<coordY>540</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>19</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Юго-Западная</name>
+	<coordX>55</coordX>
+	<coordY>570</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>20</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Красногвардейская</name>
+	<coordX>110</coordX>
+	<coordY>600</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>21</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Домодедовская</name>
+	<coordX>110</coordX>
+	<coordY>630</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>22</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Орехово</name>
+	<coordX>110</coordX>
+	<coordY>660</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>23</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Царицыно</name>
+	<coordX>110</coordX>
+	<coordY>690</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>24</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Кантемировская</name>
+	<coordX>110</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>25</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Каширская</name>
+	<coordX>110</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>26</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Коломенская</name>
+	<coordX>110</coordX>
+	<coordY>780</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>27</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Автозаводская</name>
+	<coordX>110</coordX>
+	<coordY>810</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>28</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Павелецкая</name>
+	<coordX>110</coordX>
+	<coordY>840</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>29</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Новокузнецкая</name>
+	<coordX>110</coordX>
+	<coordY>870</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>30</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Театральная</name>
+	<coordX>110</coordX>
+	<coordY>450</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>31</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Тверская</name>
+	<coordX>110</coordX>
+	<coordY>465</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>32</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Маяковская</name>
+	<coordX>110</coordX>
+	<coordY>480</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>33</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Белорусская</name>
+	<coordX>110</coordX>
+	<coordY>495</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>34</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Динамо</name>
+	<coordX>110</coordX>
+	<coordY>510</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>35</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Аэропорт</name>
+	<coordX>110</coordX>
+	<coordY>525</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>36</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Сокол</name>
+	<coordX>110</coordX>
+	<coordY>540</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>37</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Войковская</name>
+	<coordX>110</coordX>
+	<coordY>555</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>38</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Водный стадион</name>
+	<coordX>110</coordX>
+	<coordY>570</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>39</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Речной вокзал</name>
+	<coordX>110</coordX>
+	<coordY>585</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>40</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Щёлковская</name>
+	<coordX>165</coordX>
+	<coordY>600</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>41</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Первомайская</name>
+	<coordX>165</coordX>
+	<coordY>615</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>1</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>42</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Измайловская</name>
+	<coordX>165</coordX>
+	<coordY>630</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>43</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Партизанская</name>
+	<coordX>165</coordX>
+	<coordY>645</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>44</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Семёновская</name>
+	<coordX>165</coordX>
+	<coordY>660</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>45</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Электрозаводская</name>
+	<coordX>165</coordX>
+	<coordY>675</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>46</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Бауманская</name>
+	<coordX>165</coordX>
+	<coordY>690</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>47</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Курская</name>
+	<coordX>165</coordX>
+	<coordY>705</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>48</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Площадь Революции</name>
+	<coordX>165</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>49</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Арбатская</name>
+	<coordX>165</coordX>
+	<coordY>735</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>50</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Смоленская</name>
+	<coordX>165</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>51</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Киевская</name>
+	<coordX>165</coordX>
+	<coordY>765</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>52</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Парк Победы</name>
+	<coordX>165</coordX>
+	<coordY>780</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>53</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Славянский бульвар</name>
+	<coordX>165</coordX>
+	<coordY>795</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>54</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Кунцевская</name>
+	<coordX>165</coordX>
+	<coordY>810</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>55</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Молодёжная</name>
+	<coordX>165</coordX>
+	<coordY>825</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>56</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Крылатское</name>
+	<coordX>165</coordX>
+	<coordY>840</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>57</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Строгино</name>
+	<coordX>165</coordX>
+	<coordY>855</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>58</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Мякинино</name>
+	<coordX>165</coordX>
+	<coordY>870</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>59</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Волоколамская</name>
+	<coordX>165</coordX>
+	<coordY>885</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>60</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Митино</name>
+	<coordX>165</coordX>
+	<coordY>600</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>61</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Кунцевская</name>
+	<coordX>220</coordX>
+	<coordY>610</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>62</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Пионерская</name>
+	<coordX>220</coordX>
+	<coordY>620</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>63</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Филёвский парк</name>
+	<coordX>220</coordX>
+	<coordY>630</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>64</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Багратионовская</name>
+	<coordX>220</coordX>
+	<coordY>640</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>65</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Фили</name>
+	<coordX>220</coordX>
+	<coordY>650</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>66</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Кутузовская</name>
+	<coordX>220</coordX>
+	<coordY>660</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>67</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Студенческая</name>
+	<coordX>220</coordX>
+	<coordY>670</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>68</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Киевская</name>
+	<coordX>220</coordX>
+	<coordY>680</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>69</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Смоленская</name>
+	<coordX>220</coordX>
+	<coordY>690</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>70</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Арбатская</name>
+	<coordX>220</coordX>
+	<coordY>700</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>71</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Александровский сад</name>
+	<coordX>220</coordX>
+	<coordY>710</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>72</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Выставочная</name>
+	<coordX>220</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>73</id>
+	<line_id>4</line_id><line_id_inner>0</line_id_inner>
+	<name>Международная</name>
+	<coordX>220</coordX>
+	<coordY>730</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>74</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Парк культуры</name>
+	<coordX>275</coordX>
+	<coordY>740</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>75</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Октябрьская</name>
+	<coordX>275</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>76</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Добрынинская</name>
+	<coordX>275</coordX>
+	<coordY>760</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>77</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Павелецкая</name>
+	<coordX>275</coordX>
+	<coordY>770</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>78</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Таганская</name>
+	<coordX>275</coordX>
+	<coordY>780</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>79</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Курская</name>
+	<coordX>275</coordX>
+	<coordY>790</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>80</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Комсомольская</name>
+	<coordX>275</coordX>
+	<coordY>800</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>81</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Проспект Мира</name>
+	<coordX>275</coordX>
+	<coordY>810</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>82</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Новослободская</name>
+	<coordX>275</coordX>
+	<coordY>820</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>83</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Белорусская</name>
+	<coordX>275</coordX>
+	<coordY>830</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>84</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Краснопресненская</name>
+	<coordX>275</coordX>
+	<coordY>840</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>85</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Киевская</name>
+	<coordX>275</coordX>
+	<coordY>850</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>86</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Медведково</name>
+	<coordX>330</coordX>
+	<coordY>860</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>1</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>87</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Бабушкинская</name>
+	<coordX>330</coordX>
+	<coordY>870</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>88</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Свиблово</name>
+	<coordX>330</coordX>
+	<coordY>880</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>89</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Ботанический сад</name>
+	<coordX>330</coordX>
+	<coordY>890</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>90</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>ВДНХ</name>
+	<coordX>330</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>91</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Алексеевская</name>
+	<coordX>330</coordX>
+	<coordY>728</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>92</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Рижская</name>
+	<coordX>330</coordX>
+	<coordY>736</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>93</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Проспект Мира</name>
+	<coordX>330</coordX>
+	<coordY>744</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>94</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Сухаревская</name>
+	<coordX>330</coordX>
+	<coordY>752</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>95</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Тургеневская</name>
+	<coordX>330</coordX>
+	<coordY>760</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>96</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Китай-город</name>
+	<coordX>330</coordX>
+	<coordY>768</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>97</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Третьяковская</name>
+	<coordX>330</coordX>
+	<coordY>776</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>98</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Октябрьская</name>
+	<coordX>330</coordX>
+	<coordY>784</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>99</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Шаболовская</name>
+	<coordX>330</coordX>
+	<coordY>792</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>100</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Ленинский проспект</name>
+	<coordX>330</coordX>
+	<coordY>800</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>101</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Академическая</name>
+	<coordX>330</coordX>
+	<coordY>808</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>102</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Профсоюзная</name>
+	<coordX>330</coordX>
+	<coordY>816</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>103</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Новые Черёмушки</name>
+	<coordX>330</coordX>
+	<coordY>824</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>104</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Калужская</name>
+	<coordX>330</coordX>
+	<coordY>832</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>1</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>105</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Беляево</name>
+	<coordX>330</coordX>
+	<coordY>840</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>106</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Коньково</name>
+	<coordX>330</coordX>
+	<coordY>848</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>107</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Тёплый стан</name>
+	<coordX>330</coordX>
+	<coordY>856</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>108</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Ясенево</name>
+	<coordX>330</coordX>
+	<coordY>864</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>109</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Новоясеневская</name>
+	<coordX>330</coordX>
+	<coordY>872</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>110</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Планерная</name>
+	<coordX>385</coordX>
+	<coordY>880</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>111</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Сходненская</name>
+	<coordX>385</coordX>
+	<coordY>888</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>112</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Тушинская</name>
+	<coordX>385</coordX>
+	<coordY>896</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>113</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Щукинская</name>
+	<coordX>385</coordX>
+	<coordY>904</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>114</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Октябрьское поле</name>
+	<coordX>385</coordX>
+	<coordY>912</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>115</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Полежаевская</name>
+	<coordX>385</coordX>
+	<coordY>920</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>116</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Беговая</name>
+	<coordX>385</coordX>
+	<coordY>928</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>117</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица 1905 года</name>
+	<coordX>385</coordX>
+	<coordY>936</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>118</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Баррикадная</name>
+	<coordX>385</coordX>
+	<coordY>944</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>119</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Пушкинская</name>
+	<coordX>385</coordX>
+	<coordY>952</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>120</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Кузнецкий мост</name>
+	<coordX>385</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>121</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Китай-город</name>
+	<coordX>385</coordX>
+	<coordY>726</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>122</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Таганская</name>
+	<coordX>385</coordX>
+	<coordY>732</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>123</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Пролетарская</name>
+	<coordX>385</coordX>
+	<coordY>738</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>124</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Волгоградский проспект</name>
+	<coordX>385</coordX>
+	<coordY>744</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>125</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Текстильщики</name>
+	<coordX>385</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>126</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Кузьминки</name>
+	<coordX>385</coordX>
+	<coordY>756</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>127</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Рязанский проспект</name>
+	<coordX>385</coordX>
+	<coordY>762</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>128</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Выхино</name>
+	<coordX>385</coordX>
+	<coordY>768</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>129</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Новокосино</name>
+	<coordX>440</coordX>
+	<coordY>774</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>130</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Новогиреево</name>
+	<coordX>440</coordX>
+	<coordY>780</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>131</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Перово</name>
+	<coordX>440</coordX>
+	<coordY>786</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>132</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Шоссе Энтузиастов</name>
+	<coordX>440</coordX>
+	<coordY>792</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>133</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Авиамоторная</name>
+	<coordX>440</coordX>
+	<coordY>798</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>134</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Площадь Ильича</name>
+	<coordX>440</coordX>
+	<coordY>804</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>135</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Марксистская</name>
+	<coordX>440</coordX>
+	<coordY>810</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>136</id>
+	<line_id>8</line_id><line_id_inner>0</line_id_inner>
+	<name>Третьяковская</name>
+	<coordX>440</coordX>
+	<coordY>816</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>1</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>137</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Алтуфьево</name>
+	<coordX>495</coordX>
+	<coordY>822</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>138</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Бибирево</name>
+	<coordX>495</coordX>
+	<coordY>828</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>139</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Отрадное</name>
+	<coordX>495</coordX>
+	<coordY>834</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>140</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Владыкино</name>
+	<coordX>495</coordX>
+	<coordY>840</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>141</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Петровско-Разумовская</name>
+	<coordX>495</coordX>
+	<coordY>846</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>142</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Тимирязевская</name>
+	<coordX>495</coordX>
+	<coordY>852</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>143</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Дмитровская</name>
+	<coordX>495</coordX>
+	<coordY>858</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>144</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Савёловская</name>
+	<coordX>495</coordX>
+	<coordY>864</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>145</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Менделеевская</name>
+	<coordX>495</coordX>
+	<coordY>870</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>146</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Цветной бульвар</name>
+	<coordX>495</coordX>
+	<coordY>876</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>147</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Чеховская</name>
+	<coordX>495</coordX>
+	<coordY>882</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>148</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Боровицкая</name>
+	<coordX>495</coordX>
+	<coordY>888</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>149</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Полянка</name>
+	<coordX>495</coordX>
+	<coordY>894</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>150</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Серпуховская</name>
+	<coordX>495</coordX>
+	<coordY>600</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>151</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Тульская</name>
+	<coordX>495</coordX>
+	<coordY>604</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>152</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Нагатинская</name>
+	<coordX>495</coordX>
+	<coordY>608</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>153</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Нагорная</name>
+	<coordX>495</coordX>
+	<coordY>612</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>154</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Нахимовский проспект</name>
+	<coordX>495</coordX>
+	<coordY>616</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>155</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Севастопольская</name>
+	<coordX>495</coordX>
+	<coordY>620</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>156</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Чертановская</name>
+	<coordX>495</coordX>
+	<coordY>624</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>157</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Южная</name>
+	<coordX>495</coordX>
+	<coordY>628</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>158</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Пражская</name>
+	<coordX>495</coordX>
+	<coordY>632</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>159</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица академика Янгеля</name>
+	<coordX>495</coordX>
+	<coordY>636</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>160</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Аннино</name>
+	<coordX>495</coordX>
+	<coordY>640</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>161</id>
+	<line_id>9</line_id><line_id_inner>0</line_id_inner>
+	<name>Бульвар Дмитрия Донского</name>
+	<coordX>495</coordX>
+	<coordY>644</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>162</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Марьина роща</name>
+	<coordX>551</coordX>
+	<coordY>531</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>163</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Достоевская</name>
+	<coordX>559</coordX>
+	<coordY>552</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>164</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Трубная</name>
+	<coordX>572</coordX>
+	<coordY>567</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>165</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Сретенский бульвар</name>
+	<coordX>607</coordX>
+	<coordY>618</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>166</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Чкаловская</name>
+	<coordX>583</coordX>
+	<coordY>587</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>167</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Римская</name>
+	<coordX>596</coordX>
+	<coordY>601</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>168</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Крестьянская застава</name>
+	<coordX>608</coordX>
+	<coordY>636</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>169</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Дубровка</name>
+	<coordX>605</coordX>
+	<coordY>650</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>170</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Кожуховская</name>
+	<coordX>591</coordX>
+	<coordY>667</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>171</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Печатники</name>
+	<coordX>586</coordX>
+	<coordY>682</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>172</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Волжская</name>
+	<coordX>564</coordX>
+	<coordY>691</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>173</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Люблино</name>
+	<coordX>551</coordX>
+	<coordY>698</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>174</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Братиславская</name>
+	<coordX>552</coordX>
+	<coordY>710</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>175</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Марьино</name>
+	<coordX>556</coordX>
+	<coordY>722</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>176</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Борисово</name>
+	<coordX>572</coordX>
+	<coordY>733</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>177</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Шипиловская</name>
+	<coordX>567</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>178</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Зябликово</name>
+	<coordX>558</coordX>
+	<coordY>766</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>179</id>
+	<line_id>11</line_id><line_id_inner>0</line_id_inner>
+	<name>Каширская</name>
+	<coordX>605</coordX>
+	<coordY>716</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>180</id>
+	<line_id>11</line_id><line_id_inner>0</line_id_inner>
+	<name>Варшавская</name>
+	<coordX>605</coordX>
+	<coordY>540</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>181</id>
+	<line_id>11</line_id><line_id_inner>0</line_id_inner>
+	<name>Каховская</name>
+	<coordX>605</coordX>
+	<coordY>543</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>182</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Старокачаловская</name>
+	<coordX>660</coordX>
+	<coordY>546</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>183</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Скобелевская</name>
+	<coordX>660</coordX>
+	<coordY>549</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>184</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Бульвар адмирала Ушакова</name>
+	<coordX>660</coordX>
+	<coordY>552</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>185</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Горчакова</name>
+	<coordX>660</coordX>
+	<coordY>555</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>186</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Бунинская аллея</name>
+	<coordX>660</coordX>
+	<coordY>558</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>187</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Сергея Эйзенштейна</name>
+	<coordX>715</coordX>
+	<coordY>561</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>188</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Выставочный центр</name>
+	<coordX>715</coordX>
+	<coordY>564</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>189</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица академика Королёва</name>
+	<coordX>715</coordX>
+	<coordY>567</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>190</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Телецентр</name>
+	<coordX>715</coordX>
+	<coordY>570</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>191</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Милашенкова</name>
+	<coordX>715</coordX>
+	<coordY>573</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>192</id>
+	<line_id>13</line_id><line_id_inner>0</line_id_inner>
+	<name>Тимирязевская</name>
+	<coordX>715</coordX>
+	<coordY>576</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>193</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Тропарёво</name>
+	<coordX>55</coordX>
+	<coordY>579</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>194</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Румянцево</name>
+	<coordX>55</coordX>
+	<coordY>582</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>195</id>
+	<line_id>1</line_id><line_id_inner>0</line_id_inner>
+	<name>Саларьево</name>
+	<coordX>55</coordX>
+	<coordY>585</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>196</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Алма-Атинская</name>
+	<coordX>110</coordX>
+	<coordY>588</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>197</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Технопарк</name>
+	<coordX>110</coordX>
+	<coordY>591</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>199</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Ховрино</name>
+	<coordX>110</coordX>
+	<coordY>597</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>200</id>
+	<line_id>3</line_id><line_id_inner>0</line_id_inner>
+	<name>Пятницкое шоссе</name>
+	<coordX>165</coordX>
+	<coordY>600</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>201</id>
+	<line_id>5</line_id><line_id_inner>0</line_id_inner>
+	<name>Суворовская</name>
+	<coordX>275</coordX>
+	<coordY>603</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>202</id>
+	<line_id>6</line_id><line_id_inner>0</line_id_inner>
+	<name>Челобитьево</name>
+	<coordX>330</coordX>
+	<coordY>606</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>203</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Спартак</name>
+	<coordX>385</coordX>
+	<coordY>609</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>204</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Лермонтовский проспект</name>
+	<coordX>385</coordX>
+	<coordY>612</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>205</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Жулебино</name>
+	<coordX>385</coordX>
+	<coordY>615</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>206</id>
+	<line_id>7</line_id><line_id_inner>0</line_id_inner>
+	<name>Котельники</name>
+	<coordX>385</coordX>
+	<coordY>618</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>207</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Бутырская</name>
+	<coordX>441</coordX>
+	<coordY>206</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>208</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Фонвизинская</name>
+	<coordX>506</coordX>
+	<coordY>269</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>209</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Петровско-Разумовская</name>
+	<coordX>489</coordX>
+	<coordY>238</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>210</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Окружная</name>
+	<coordX>523</coordX>
+	<coordY>461</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>211</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Верхние Лихоборы</name>
+	<coordX>530</coordX>
+	<coordY>478</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>212</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Селигерская</name>
+	<coordX>535</coordX>
+	<coordY>500</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>214</id>
+	<line_id>10</line_id><line_id_inner>0</line_id_inner>
+	<name>Дмитровское шоссе</name>
+	<coordX>543</coordX>
+	<coordY>518</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>215</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Битцевский парк</name>
+	<coordX>660</coordX>
+	<coordY>645</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>216</id>
+	<line_id>12</line_id><line_id_inner>0</line_id_inner>
+	<name>Лесопарковая</name>
+	<coordX>660</coordX>
+	<coordY>648</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>217</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Деловой центр</name>
+	<coordX>770</coordX>
+	<coordY>651</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>218</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Парк Победы</name>
+	<coordX>770</coordX>
+	<coordY>654</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>219</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Волхонка</name>
+	<coordX>770</coordX>
+	<coordY>657</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>220</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Дорогомиловская</name>
+	<coordX>770</coordX>
+	<coordY>660</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>221</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Плющиха</name>
+	<coordX>770</coordX>
+	<coordY>663</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>222</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Третьяковская</name>
+	<coordX>770</coordX>
+	<coordY>666</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>223</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Минская</name>
+	<coordX>770</coordX>
+	<coordY>669</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>224</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Ломоносовский проспект</name>
+	<coordX>770</coordX>
+	<coordY>672</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>225</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Раменки</name>
+	<coordX>770</coordX>
+	<coordY>675</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>226</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Косино</name>
+	<coordX>825</coordX>
+	<coordY>678</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>227</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>улица Дмитриевского</name>
+	<coordX>825</coordX>
+	<coordY>681</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>228</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Лухмановская</name>
+	<coordX>825</coordX>
+	<coordY>684</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>229</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Некрасовка</name>
+	<coordX>825</coordX>
+	<coordY>687</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>230</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Авиамоторная</name>
+	<coordX>825</coordX>
+	<coordY>690</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>231</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Нижегородская улица</name>
+	<coordX>825</coordX>
+	<coordY>693</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>232</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Стахановская</name>
+	<coordX>825</coordX>
+	<coordY>696</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>233</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Окская улица</name>
+	<coordX>825</coordX>
+	<coordY>699</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>234</id>
+	<line_id>15</line_id><line_id_inner>0</line_id_inner>
+	<name>Юго-Восточная</name>
+	<coordX>825</coordX>
+	<coordY>702</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>235</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Нижняя Масловка</name>
+	<coordX>880</coordX>
+	<coordY>705</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>237</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Ходынское поле</name>
+	<coordX>880</coordX>
+	<coordY>711</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>238</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Хорошёвская</name>
+	<coordX>880</coordX>
+	<coordY>714</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>240</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Деловой центр</name>
+	<coordX>880</coordX>
+	<coordY>720</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>241</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Народного ополчения</name>
+	<coordX>880</coordX>
+	<coordY>723</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>242</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Мневники</name>
+	<coordX>880</coordX>
+	<coordY>726</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>243</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Терехово</name>
+	<coordX>880</coordX>
+	<coordY>729</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>244</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Кунцевская</name>
+	<coordX>880</coordX>
+	<coordY>732</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>245</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Аминьевское шоссе</name>
+	<coordX>880</coordX>
+	<coordY>735</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>246</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Мичуринский проспект</name>
+	<coordX>880</coordX>
+	<coordY>738</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>247</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Проспект Вернадского</name>
+	<coordX>880</coordX>
+	<coordY>741</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>248</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Улица Новаторов</name>
+	<coordX>880</coordX>
+	<coordY>744</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>249</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Воронцовская</name>
+	<coordX>880</coordX>
+	<coordY>747</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>250</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Севастопольский проспект</name>
+	<coordX>880</coordX>
+	<coordY>750</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>251</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Каховская</name>
+	<coordX>880</coordX>
+	<coordY>753</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>252</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Каширская</name>
+	<coordX>880</coordX>
+	<coordY>756</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>253</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Нагатинский затон</name>
+	<coordX>880</coordX>
+	<coordY>759</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>254</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Печатники</name>
+	<coordX>880</coordX>
+	<coordY>762</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>255</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Текстильщики</name>
+	<coordX>880</coordX>
+	<coordY>765</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>256</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Нижегородская улица</name>
+	<coordX>880</coordX>
+	<coordY>768</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>257</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Авиамоторная</name>
+	<coordX>880</coordX>
+	<coordY>771</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>258</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Лефортово</name>
+	<coordX>880</coordX>
+	<coordY>774</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>259</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Электрозаводская</name>
+	<coordX>880</coordX>
+	<coordY>777</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>260</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Сокольники</name>
+	<coordX>880</coordX>
+	<coordY>260</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>261</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Ржевская</name>
+	<coordX>880</coordX>
+	<coordY>261</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>262</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Шереметьевская</name>
+	<coordX>880</coordX>
+	<coordY>262</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>263</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Мичуринский проспект</name>
+	<coordX>770</coordX>
+	<coordY>263</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>264</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Очаково</name>
+	<coordX>770</coordX>
+	<coordY>264</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>265</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Терешково</name>
+	<coordX>770</coordX>
+	<coordY>265</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>266</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Солнцево</name>
+	<coordX>770</coordX>
+	<coordY>266</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>267</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Боровское шоссе</name>
+	<coordX>770</coordX>
+	<coordY>267</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>268</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Новопеределкино</name>
+	<coordX>770</coordX>
+	<coordY>268</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>269</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Рассказовка</name>
+	<coordX>770</coordX>
+	<coordY>269</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>270</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Андроновка</name>
+	<coordX>935</coordX>
+	<coordY>270</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>271</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Шоссе Энтузиастов</name>
+	<coordX>935</coordX>
+	<coordY>271</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>272</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Измайлово</name>
+	<coordX>935</coordX>
+	<coordY>272</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>273</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Локомотив</name>
+	<coordX>935</coordX>
+	<coordY>273</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>274</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Бульвар Рокоссовского</name>
+	<coordX>935</coordX>
+	<coordY>274</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>
+	«Бульвар Рокоссо́вского» (до 8 июля 2014 года — «Улица Подбельского») — станция Московского метрополитена, конечная северо-восточного радиуса Сокольнической линии. Расположена на территории района Богородское (ВАО). Открыта 1 августа 1990 года в составе участка «Преображенская площадь» — «Улица Подбельского». Была временно закрыта с 16 по 23 февраля и с 30 марта по 4 апреля 2019 года для строительства Большой кольцевой линии.
+ 
+История и происхождение названия
+Станция открыта под названием «Улица Подбельского» 1 августа 1990 года в составе участка «Преображенская площадь» — «Улица Подбельского», после ввода в эксплуатацию которого в Московском метрополитене стало 143 станции. Была названа по улице Подбельского, в 1994 году переименованной в Ивантеевскую (на перекрёстке этой улицы с 7-м проездом Подбельского расположен северный выход со станции). После переименования улицы, которая получила исходное название в честь партийного и государственного деятеля Вадима Подбельского, название станции утратило географическую привязку, хотя имя Подбельского сохранилось до настоящего времени в названиях 7-го и ещё шести проездов, расположенных в том же районе. По решению Московской межведомственной комиссии по наименованию территориальных единиц, улиц, станций метрополитена, организаций и других объектов города станция «Улица Подбельского» 8 июля 2014 года в рамках подготовки к празднованию 70-летия победы в Великой Отечественной войне была переименована в «Бульвар Рокоссовского». Расстояние от наземных вестибюлей станции до самого бульвара составляет более 500 метров.
+
+Как отметил мэр Москвы Сергей Собянин: «Мы с советом ветеранов вырабатывали комплекс мероприятий по подготовке к 70-летию победы в Великой Отечественной войне. Часть мероприятий посвящена увековечению памяти героев войны, великих полководцев, которые защищали Москву и нашу Родину. Предложение было по переименованию станции метро „Улица Подбельского“ в станцию метро „Бульвар Рокоссовского“».
+
+Вестибюли и пересадки
+Станция имеет два выхода: южный — на Открытое шоссе и северный — на Ивантеевскую улицу и 7-й проезд Подбельского.
+
+10 сентября 2016 года открыта одноимённая станция Московского центрального кольца (МЦК), вход на которую находится в непосредственной близости от южного вестибюля станции метрополитена.
+
+Подземные сооружения
+Колонная трёхпролётная станция мелкого заложения (глубина заложения — 8 м). Сооружена по типовому проекту из сборного железобетона с опорой на «стену в грунте». На станции два ряда по 26 железобетонных колонн. Шаг колонн 6,5 м.
+
+Колонны облицованы белым мрамором, путевые стены — металлическими полосами, из которых выложен геометрический орнамент; цоколь стен покрыт тёмным гранитом. Пол выложен светло-серым гранитом с полосами из чёрного и красного мрамора.
+
+Памятников и бюстов на станции нет.
+	</RuTxt>
+	<EnTxt>
+	Bulvar Rokossovskogo (Russian: Бульва́р Рокоссо́вского, English: Rokossovsky Boulevard), previously Ulitsa Podbelskogo (Russian: У́лица Подбе́льского, English: Podbelsky Street), is a Moscow Metro station in the Bogorodskoye District, Eastern Administrative Okrug, Moscow, Russia. It is on the Sokolnicheskaya line, serving as its eastern terminus. The station was opened in 1990. Riders may make an out-of-station transfer to Bulvar Rokossovskogo on the Moscow Central Circle line.
+History
+Name
+The station was originally named "Ulitsa Podbelskogo" for Podbelskogo Street, which was named for the Bolshevik revolutionary Vadim Podbelsky. Even after the street was renamed in 1991 to Ivanteyevskaya Street, the station's name was unchanged until 2014. On 10 April 2014 Moscow City Commission on Names recommended renaming the station to "Bulvar Marshala Rokossovskogo", for Rokossovsky Boulevard, which was named for Soviet Marshal Konstantin Rokossovsky. On 8 July, the station was officially renamed to "Bulvar Rokossovskogo".
+
+Future plans
+Rather than continuing the straight path of the Sokolnicheskaya line to the northeast, Bulvar Rokossovskogo was built to the northwest of Cherkizovskaya, forming a right angle with the rest of the line. This would allow Bulvar Rokossovskogo to eventually become part of a planned second ring line around the city, at which time the Sokolnicheskaya line could presumably be further extended in its original direction.
+
+Beyond Bulvar Rokossovskogo are reversal sidings which are planned to become part of the future "Big Ring" line. A junction between Bulvar Rokossovskogo and Cherkizovskaya is used by southbound trains entering and leaving the Cherkizovo depot (No. 13), since the depot is directly connected only to the southbound tunnel.
+
+Design
+
+Station platform
+Bulvar Rokossovskogo is a shallow column tri-vault station. The station was designed by architects Nina Aleshin and Natalya K. Samoilova and applied the following theme: ferroconcrete pillars faced with white marble; anodized aluminum arranged in geometric patterns on the walls and two identical entrance vestibules located on either side of Moscow's Circular Railway near the Otkrytoe Shosse.
+	</EnTxt>
+</Станция>
+
+<Станция>
+	<id>275</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Белокаменная</name>
+	<coordX>935</coordX>
+	<coordY>275</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>276</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Ростокино</name>
+	<coordX>935</coordX>
+	<coordY>276</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>277</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Ботанический сад</name>
+	<coordX>935</coordX>
+	<coordY>277</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>278</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Владыкино</name>
+	<coordX>935</coordX>
+	<coordY>278</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>279</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Окружная</name>
+	<coordX>935</coordX>
+	<coordY>279</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>280</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Лихоборы</name>
+	<coordX>935</coordX>
+	<coordY>280</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>281</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Балтийская</name>
+	<coordX>935</coordX>
+	<coordY>281</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>282</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Стрешнево</name>
+	<coordX>935</coordX>
+	<coordY>282</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>283</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Хорошёво</name>
+	<coordX>935</coordX>
+	<coordY>283</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>284</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Шелепиха</name>
+	<coordX>935</coordX>
+	<coordY>284</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>285</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Деловой центр</name>
+	<coordX>935</coordX>
+	<coordY>285</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>286</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Кутузовская</name>
+	<coordX>935</coordX>
+	<coordY>286</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>287</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Лужники</name>
+	<coordX>935</coordX>
+	<coordY>287</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>288</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Площадь Гагарина</name>
+	<coordX>935</coordX>
+	<coordY>288</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>289</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Крымская</name>
+	<coordX>935</coordX>
+	<coordY>289</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>290</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Верхние Котлы</name>
+	<coordX>935</coordX>
+	<coordY>290</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>291</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>ЗИЛ</name>
+	<coordX>935</coordX>
+	<coordY>291</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>292</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Автозаводская</name>
+	<coordX>935</coordX>
+	<coordY>292</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>293</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Угрешская</name>
+	<coordX>935</coordX>
+	<coordY>293</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>294</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Новохохловская</name>
+	<coordX>935</coordX>
+	<coordY>294</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>295</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Нижегородская</name>
+	<coordX>935</coordX>
+	<coordY>295</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>296</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Соколиная Гора</name>
+	<coordX>935</coordX>
+	<coordY>296</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>297</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Дубровка</name>
+	<coordX>935</coordX>
+	<coordY>297</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>298</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Петровский парк</name>
+	<coordX>880</coordX>
+	<coordY>298</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>299</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>ЦСКА</name>
+	<coordX>880</coordX>
+	<coordY>299</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>300</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Шелепиха</name>
+	<coordX>880</coordX>
+	<coordY>300</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>301</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Озерная</name>
+	<coordX>770</coordX>
+	<coordY>301</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>302</id>
+	<line_id>14</line_id><line_id_inner>0</line_id_inner>
+	<name>Говорово</name>
+	<coordX>770</coordX>
+	<coordY>302</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>303</id>
+	<line_id>2</line_id><line_id_inner>0</line_id_inner>
+	<name>Беломорская</name>
+	<coordX>400</coordX>
+	<coordY>139</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>304</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Зорге</name>
+	<coordX>935</coordX>
+	<coordY>304</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>305</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Панфиловская</name>
+	<coordX>935</coordX>
+	<coordY>305</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>306</id>
+	<line_id>17</line_id><line_id_inner>0</line_id_inner>
+	<name>Коптево</name>
+	<coordX>935</coordX>
+	<coordY>306</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+
+<Станция>
+	<id>307</id>
+	<line_id>16</line_id><line_id_inner>0</line_id_inner>
+	<name>Савеловская</name>
+	<coordX>880</coordX>
+	<coordY>307</coordY>
+	<type>1</type>
+	<cities_id>1</cities_id>
+	<status>0</status>
+	<RuTxt>.</RuTxt>
+	<EnTxt>.</EnTxt>
+</Станция>
+</root>
